@@ -3,7 +3,7 @@ import { Login } from "./Pages/Login"
 import { Home } from "./Pages/Home"
 import { Search } from "./Pages/Search"
 
-export const Route = () => {
+export const AllRoute = () => {
     return (
         <Switch>
             <Route exact path="/">
